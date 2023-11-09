@@ -1,0 +1,92 @@
+[
+	{
+		"cod_client": 1,
+		"nombre": "Juan",
+		"apellido": "Pérez",
+		"e-mail": "juan.perez@example.com",
+		"celular": 5555555555,
+		"fec-nac": "1990-01-15",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 2,
+		"nombre": "María",
+		"apellido": "González",
+		"e-mail": "maria.gonzalez@example.com",
+		"celular": 5555555556,
+		"fec-nac": "1985-03-20",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 3,
+		"nombre": "Luis",
+		"apellido": "Martínez",
+		"e-mail": "luis.martinez@example.com",
+		"celular": 5555555557,
+		"fec-nac": "1995-07-10",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 4,
+		"nombre": "Ana",
+		"apellido": "Ramírez",
+		"e-mail": "ana.ramirez@example.com",
+		"celular": 5555555558,
+		"fec-nac": "1982-11-25",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 5,
+		"nombre": "Carlos",
+		"apellido": "López",
+		"e-mail": "carlos.lopez@example.com",
+		"celular": 5555555559,
+		"fec-nac": "1998-06-05",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 6,
+		"nombre": "Laura",
+		"apellido": "Sánchez",
+		"e-mail": "laura.sanchez@example.com",
+		"celular": 5555555560,
+		"fec-nac": "1980-09-12",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 7,
+		"nombre": "Pedro",
+		"apellido": "Díaz",
+		"e-mail": "pedro.diaz@example.com",
+		"celular": 5555555561,
+		"fec-nac": "1993-02-08",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 8,
+		"nombre": "Sofía",
+		"apellido": "Fernández",
+		"e-mail": "sofia.fernandez@example.com",
+		"celular": 5555555562,
+		"fec-nac": "1987-04-30",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 9,
+		"nombre": "Jorge",
+		"apellido": "Rodríguez",
+		"e-mail": "jorge.rodriguez@example.com",
+		"celular": 5555555563,
+		"fec-nac": "1991-12-15",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	},
+	{
+		"cod_client": 10,
+		"nombre": "Isabel",
+		"apellido": "Luna",
+		"e-mail": "isabel.luna@example.com",
+		"celular": 5555555564,
+		"fec-nac": "1983-08-18",
+		"comentario": "lorem Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores quisquam totam voluptatem atque ad nisi voluptate temporibus enim fuga, error beatae iusto eveniet? Labore nesciunt atque vitae est impedit eaque."
+	}
+]

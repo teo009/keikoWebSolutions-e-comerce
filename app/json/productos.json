@@ -1,0 +1,227 @@
+{
+	"productos": {
+		"Ravioli": [
+			{
+				"id_producto": 1,
+				"imagen": "./imagen",
+				"sabor": "Espinacas y queso ricotta",
+				"presentacion": "500g",
+				"precio": 5.99
+			},
+			{
+				"id_producto": 12,
+				"imagen": "./imagen",
+				"sabor": "Champiñones y queso parmesano",
+				"presentacion": "500g",
+				"precio": 6.49
+			},
+			{
+				"id_producto": 25,
+				"imagen": "./imagen",
+				"sabor": "Salmón ahumado y queso crema",
+				"presentacion": "500g",
+				"precio": 7.99
+			}
+		],
+		"Fettuccine": [
+			{
+				"id_producto": 2,
+				"imagen": "./imagen",
+				"sabor": "Huevo",
+				"presentacion": "400g",
+				"precio": 4.99
+			},
+			{
+				"id_producto": 23,
+				"imagen": "./imagen",
+				"sabor": "Pimienta negra",
+				"presentacion": "400g",
+				"precio": 5.49
+			},
+			{
+				"id_producto": 35,
+				"imagen": "./imagen",
+				"sabor": "Espárragos y crema de parmesano",
+				"presentacion": "400g",
+				"precio": 6.99
+			}
+		],
+		"Tortellini": [
+			{
+				"id_producto": 3,
+				"imagen": "./imagen",
+				"sabor": "Carne de res",
+				"presentacion": "350g",
+				"precio": 4.49
+			},
+			{
+				"id_producto": 10,
+				"imagen": "./imagen",
+				"sabor": "Espinacas y queso feta",
+				"presentacion": "350g",
+				"precio": 4.99
+			},
+			{
+				"id_producto": 17,
+				"imagen": "./imagen",
+				"sabor": "Calabaza y nuez moscada",
+				"presentacion": "350g",
+				"precio": 5.49
+			}
+		],
+		"Pappardelle": [
+			{
+				"id_producto": 4,
+				"imagen": "./imagen",
+				"sabor": "Trufa negra",
+				"presentacion": "250g",
+				"precio": 7.99
+			},
+			{
+				"id_producto": 18,
+				"imagen": "./imagen",
+				"sabor": "Huevo",
+				"presentacion": "250g",
+				"precio": 5.99
+			},
+			{
+				"id_producto": 32,
+				"imagen": "./imagen",
+				"sabor": "Cebolla caramelizada y queso gorgonzola",
+				"presentacion": "250g",
+				"precio": 6.49
+			}
+		],
+		"Lasaña": [
+			{
+				"id_producto": 5,
+				"imagen": "./imagen",
+				"sabor": "Pollo y queso mozzarella",
+				"presentacion": "800g",
+				"precio": 8.99
+			},
+			{
+				"id_producto": 14,
+				"imagen": "./imagen",
+				"sabor": "Vegetales asados y queso mozzarella",
+				"presentacion": "800g",
+				"precio": 7.99
+			},
+			{
+				"id_producto": 22,
+				"imagen": "./imagen",
+				"sabor": "Berenjena y queso mozzarella",
+				"presentacion": "800g",
+				"precio": 8.49
+			}
+		],
+		"Gnocchi": [
+			{
+				"id_producto": 6,
+				"imagen": "./imagen",
+				"sabor": "Patata",
+				"presentacion": "450g",
+				"precio": 4.99
+			},
+			{
+				"id_producto": 16,
+				"imagen": "./imagen",
+				"sabor": "Espinacas y queso parmesano",
+				"presentacion": "450g",
+				"precio": 5.49
+			},
+			{
+				"id_producto": 33,
+				"imagen": "./imagen",
+				"sabor": "Remolacha y queso de cabra",
+				"presentacion": "450g",
+				"precio": 6.99
+			}
+		],
+		"Spaghetti": [
+			{
+				"id_producto": 7,
+				"imagen": "./imagen",
+				"sabor": "Trigo integral",
+				"presentacion": "500g",
+				"precio": 4.99
+			},
+			{
+				"id_producto": 15,
+				"imagen": "./imagen",
+				"sabor": "Ajo y aceite de oliva",
+				"presentacion": "500g",
+				"precio": 5.49
+			},
+			{
+				"id_producto": 21,
+				"imagen": "./imagen",
+				"sabor": "Tinta de calamar",
+				"presentacion": "500g",
+				"precio": 6.99
+			}
+		],
+		"Rigatoni": [
+			{
+				"id_producto": 8,
+				"imagen": "./imagen",
+				"sabor": "Queso cheddar",
+				"presentacion": "400g",
+				"precio": 4.99
+			},
+			{
+				"id_producto": 19,
+				"imagen": "./imagen",
+				"sabor": "Salchicha italiana y tomate",
+				"presentacion": "400g",
+				"precio": 5.49
+			},
+			{
+				"id_producto": 31,
+				"imagen": "./imagen",
+				"sabor": "Setas silvestres y queso parmesano",
+				"presentacion": "400g",
+				"precio": 6.99
+			}
+		],
+		"Tagliatelle": [
+			{
+				"id_producto": 9,
+				"imagen": "./imagen",
+				"sabor": "Hongos porcini",
+				"presentacion": "350g",
+				"precio": 5.99
+			},
+			{
+				"id_producto": 20,
+				"imagen": "./imagen",
+				"sabor": "Limón y albahaca",
+				"presentacion": "350g",
+				"precio": 6.49
+			},
+			{
+				"id_producto": 27,
+				"imagen": "./imagen",
+				"sabor": "Trufa blanca y parmesano",
+				"presentacion": "350g",
+				"precio": 7.99
+			}
+		],
+		"Fusilli": [
+			{
+				"id_producto": 13,
+				"imagen": "./imagen",
+				"sabor": "Trigo sarraceno",
+				"presentacion": "400g",
+				"precio": 6.99
+			},
+			{
+				"id_producto": 29,
+				"imagen": "./imagen",
+				"sabor": "Tomate seco y aceitunas negras",
+				"presentacion": "400g",
+				"precio": 7.49
+			}
+		]
+	}
+}

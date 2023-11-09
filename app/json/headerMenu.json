@@ -1,0 +1,28 @@
+[
+	{
+		"inicio": {
+			"name": "Inicio",
+			"link": "#inicio"
+		},
+		"quienes-somos": {
+			"name": "Quienes Somos",
+			"link": "#quienes-somos"
+		},
+		"productos": {
+			"name": "Productos",
+			"link": "#productos"
+		},
+		"recetas": {
+			"name": "Recetas",
+			"link": "#recetas"
+		},
+		"testimonios": {
+			"name": "Testimonios",
+			"link": "#testimonios"
+        },
+		"contacto": {
+			"name": "Contacto",
+			"link": "#contato"
+        }
+	}
+]
