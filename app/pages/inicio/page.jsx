@@ -15,7 +15,7 @@ export default function Inicio() {
 					<br />
 					<Image
 						className='inicio-logo'
-						src='/assets/svg/kapelu.svg'
+						src='/images/kapelu.svg'
 						alt='Picture of the author'
 						width={250}
 						height={250}

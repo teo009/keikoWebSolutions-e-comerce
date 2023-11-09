@@ -4,8 +4,8 @@ import menu from '@/app/json/headerMenu.json'
 import './header.css'
 import Link from 'next/link'
 import Image from 'next/image'
-import LogoKapelu from '@/public/assets/svg/kapelu.svg'
-import Carrito from '@/public/assets/svg/carrito.svg'
+import LogoKapelu from '/app/images/svg/kapelu.svg'
+import Carrito from '/app/images/svg/carrito.svg'
 
 export default function Header() {
 	const [isMenuOpen, setIsMenuOpen] = useState(false)
