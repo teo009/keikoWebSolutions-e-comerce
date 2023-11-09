@@ -11,7 +11,7 @@ const roboto = Roboto({
 }) */
 
 export const metadata = {
-	title: 'Kapelu',
+	title: 'Pastas Frescas',
 	description: 'e-Comerce de Pastas Frescas',
     manifest: '/manifest',
 	icons:{
