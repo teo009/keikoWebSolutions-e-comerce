@@ -4,9 +4,9 @@ import './style.css'
 
 export default function Inicio() {
 	return (
-		<article className='inicio-container'>
-			<aside className='inicio-opacity'>
-				<div className='inicio-content'>
+		<article className='inicio'>
+			<aside className='container section '>
+				<div className='inicio-content full-lg-screen'>
 					<h2 className='inicio-title'>Bienvenid@s</h2>
 					<h3 className='inicio-subtitle'>Pastas Frescas</h3>
 					<p className='text-service section-inicio'>

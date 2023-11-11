@@ -1,24 +1,22 @@
-.inicio-container {
-	background-image: url('/images/background/nicio.webp');
+.inicio {
+	background-image: url('/images/background/inicio.webp');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
-}
-
-.inicio-opacity {
-    width: 100%;
+    filter:sepia(40%);
+	width: 100%;
 	min-height: 100vh;
 	display: flex;
-	/* flex-direction: column; */
-	justify-content: center;
+	justify-content: flex-start;
 	align-items: center;
 	text-align: center;
-	background: linear-gradient(rgba(0, 0, 0, 0.80), rgba(91, 93, 97, 0.40));
 }
+
 .section-inicio {
 	padding: 1rem 2rem;
 }
+
 .inicio-content {
 	font-family: var(--font-family);
 	font-style: italic;
@@ -45,7 +43,7 @@
 
 @media screen and (min-width: 1024px) {
 	.section-inicio {
-		padding: 2rem 30rem;
+		padding: 2rem 1rem;
 	}
 	.inicio-content {
 		& .inicio-title {
