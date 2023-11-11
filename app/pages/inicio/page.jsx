@@ -6,10 +6,10 @@ export default function Inicio() {
 	return (
 		<article className='inicio'>
 			<aside className='container section '>
-				<div className='inicio-content full-lg-screen'>
+				<div className='inicio-content section full-lg-screen'>
 					<h2 className='inicio-title'>Bienvenid@s</h2>
 					<h3 className='inicio-subtitle'>Pastas Frescas</h3>
-					<p className='text-service section-inicio'>
+					<p className='text'>
 						Ofrecemos una experiencia gastronómica única.
 					</p>
 					<br />
@@ -23,21 +23,20 @@ export default function Inicio() {
 						priority={true}
 						as='image'
 					/>
-					<div className='section-inicio'>
-						<p className='inicio-description'>
+					<div className='text'>
+						<p>
 							Cada uno de nuestros platos está cocinado con amor y
 							cuidado, como si estuvieran siendo preparados para
 							nuestra propia familia.
 						</p>
 						<Link
 							className='btn'
-							href='#productos'
+							href='#productos'/* 
 							target='_blank'
-							rel='noopener noreferrer preload'
+							rel='noopener noreferrer preload' */
 							as='#productos'
 						>
-							{' '}
-							PRODUCTOS{' '}
+							PRODUCTOS
 						</Link>
 						<br />
 					</div>
